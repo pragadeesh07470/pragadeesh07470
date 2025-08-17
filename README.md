@@ -29,10 +29,18 @@
 - [Time Complexity Series – AlgoZenith](https://maang.in/courses/certificate?id=AZ244528551325089)  
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pragadeesh07470&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pragadeesh07470&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pragadeesh07470&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 My Language Usage
+<pre>
+C          ███░░░░░░░░░░░░░░░░░░░ 15%<br>
+C++        █████░░░░░░░░░░░░░░░░░ 25%<br>
+Java       ██████░░░░░░░░░░░░░░░░ 30%<br>
+Python     █░░░░░░░░░░░░░░░░░░░░░ 3%<br>
+HTML       ██░░░░░░░░░░░░░░░░░░░░ 6%<br>
+CSS        █░░░░░░░░░░░░░░░░░░░░░ 5%<br>
+JavaScript ██░░░░░░░░░░░░░░░░░░░░ 6%<br>
+React.js   ██░░░░░░░░░░░░░░░░░░░░ 10%<br>
+</pre>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pragadeesh07470&icon=0&color=0)](https://visitcount.itsvg.in)
