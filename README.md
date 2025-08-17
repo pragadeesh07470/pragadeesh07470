@@ -17,6 +17,18 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+## 🎓 Certifications  
+
+- [Master C++ for Competitive Coding – AlgoZenith](https://maang.in/courses/certificate?id=AZ240128551126162)  
+- [Java for Beginners – Udemy (by Navin Reddy)](https://www.udemy.com/certificate/UC-b5a214c3-43c9-467c-8114-62aa4c9fb8cc/)  
+- [Embedded Systems with Arduino – GeeksforGeeks](https://www.geeksforgeeks.org/certificate/8814774ea81c1e5f6aea90ec6ff9bf2d?utm_source=socials&utm_medium=cc_link)  
+- [Introduction to Internet of Things – NPTEL](https://drive.google.com/file/d/1NifOaJDQsPYZ2nbpOrguSg7txMxUfVx3/view?usp=sharing)  
+- [JavaScript (Basic) – HackerRank](https://www.hackerrank.com/certificates/201b231ebfa6)  
+- [JavaScript (Intermediate) – HackerRank](https://www.hackerrank.com/certificates/1d7829dfd5fc)  
+- [Time Complexity Series – AlgoZenith](https://maang.in/courses/certificate?id=AZ244528551325089)  
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pragadeesh07470&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pragadeesh07470&theme=dark&hide_border=false)<br/>
