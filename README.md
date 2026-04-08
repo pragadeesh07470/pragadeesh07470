@@ -1,6 +1,6 @@
 # Hi, I'm Pragadeesh 
 
-  👨‍🎓 Final-year B.E. ECE student with strong programming skills in C, C++, and Java.<br>
+  👨‍🎓 Bachelor of Engineering in Electronics and Communication Engineering (2026 Graduate) with strong programming skills in C, C++, and Java.<br>
 
   💻 Passionate about software development, with a solid foundation in data structures.<br>
 
