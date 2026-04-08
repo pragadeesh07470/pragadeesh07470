@@ -1,8 +1,8 @@
 # Hi, I'm Pragadeesh 
 
-  👨‍🎓 Bachelor of Engineering in Electronics and Communication Engineering (2026 Graduate) with strong programming skills in C, C++, and Java.<br>
+  👨‍🎓 Bachelor of Engineering in Electronics and Communication Engineering (2026 Graduate)<br>
 
-  💻 Passionate about software development, with a solid foundation in data structures.<br>
+  💻 Passionate about software development with a solid foundation in data structures and programming skills in C, C++, and Java.<br>
 
   🧩 Skilled in problem-solving and algorithms, with an active interest in coding challenges and competitive programming.<br>
 
