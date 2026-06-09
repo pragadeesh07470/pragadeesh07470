@@ -14,7 +14,7 @@
   
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/pragadeesh-m-1b1465234/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="50" alt="LinkedIn">
 </a> 
 <br>Gmail: pragadeesh07470@gmail.com
 
